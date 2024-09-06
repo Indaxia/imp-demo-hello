@@ -1,0 +1,7 @@
+{
+  "project": "imp-demo-hello",
+  "dependencies": {},
+  "sources": [
+    "src"
+  ]
+}
